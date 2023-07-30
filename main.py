@@ -128,9 +128,8 @@ with st.sidebar:
     """)    
 
 
-    st.write("Made with :orange_heart: by Team TechPriests :sunglasses:.", unsafe_allow_html=True)
+    st.write(":sunglasses:.", unsafe_allow_html=True)
     st.markdown("""
-		This is version 1.01 for 
-        Mistral HackFest '23
+		This is version 2.01
 		""")
     st.markdown('Source code can be found [here](https://github.com/gattsu997/Data-Yogi).')
